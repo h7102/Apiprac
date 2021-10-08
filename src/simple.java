@@ -4,6 +4,8 @@ public class simple {
 	{
 		System.out.println("Hello from the other side");
 		System.out.println("Add your print statements");
+		
+		System.out.print("Hello from collab!");
 	}
 
 }
